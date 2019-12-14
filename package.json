@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.paviliongift.com:pavilion/starter-project.git"
+    "url": "git@github.com:JacobRichardson/node-starter-project.git"
   },
   "author": "Jacob Richardson",
   "license": "ISC"
