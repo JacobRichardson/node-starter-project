@@ -1,5 +1,5 @@
 {
-  "name": "pavilion-starter-project",
+  "name": "node-starter-project",
   "version": "1.1.1",
   "description": "A starter project for other Node.js projects.",
   "main": "index.js",
