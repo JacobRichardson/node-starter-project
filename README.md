@@ -7,7 +7,7 @@ One Paragraph of project description goes here.
 This is how to install the project. Fill in < project url here > with the proper information.
 
 ```
-git clone git@git.paviliongift.com:<project url here>
+git clone <project url here>
 ```
 
 ```
@@ -63,7 +63,7 @@ Fill out what was used in the project. An example for using Node.js would be:
 
 Please fill out < project path here > with the correct path to the project.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://gitlab.paviliongift.com/< project path here >/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](< project >/tags).
 
 ## Authors
 
